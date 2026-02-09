@@ -65,3 +65,9 @@ Este é um projeto acadêmico desenvolvido em grupo.
 Repositório original da equipe:
 
 https://github.com/udagla5/INF1039---25.2---Time-1
+
+# Apresentação do projeto
+
+Slides desenvolvidos em equipe no Canva, contendo visão geral do sistema, protótipos, fluxo da aplicação e organização do projeto:
+
+Link da apresentação: https://www.canva.com/design/DAG0MfFg8gY/_dxfdoX0eeVsja8mdDEKpw/edit?utm_content=DAG0MfFg8gY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
